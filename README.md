@@ -1,4 +1,4 @@
-# JogoDasPalavras-Termo-WinApp
+# JogoDasPalavras (WinApp) ![image](https://github.com/RafaTavres/JogoDasPalavras-Termo-WinApp/assets/112666872/88b574c8-8621-480f-997f-110c10785848)
 
 Trabalho da Academia do programador
 
