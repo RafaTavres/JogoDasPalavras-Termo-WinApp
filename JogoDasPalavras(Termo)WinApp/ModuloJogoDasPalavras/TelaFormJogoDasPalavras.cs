@@ -1,6 +1,5 @@
 using JogoDasPalavras_Termo_WinApp.ModuloJogoDasPalavras;
 using JogoDasPalavras_Termo_WinApp.Properties;
-using System.Globalization;
 
 namespace JogoDasPalavras_Termo_WinApp
 {
@@ -48,6 +47,10 @@ namespace JogoDasPalavras_Termo_WinApp
             }
         }
 
+
+
+
+
         private void ConfigurarClickDosBotoes()
         {
             foreach (Button botao in tableLayoutPanel1.Controls)
@@ -76,6 +79,9 @@ namespace JogoDasPalavras_Termo_WinApp
         }
 
 
+
+
+
         private void btnChutar_Click(object sender, EventArgs e)
         {
 
@@ -96,11 +102,16 @@ namespace JogoDasPalavras_Termo_WinApp
 
 
 
+
+
+
         private string PegaNovaPalavra()
         {
             string novaPalavra = new string(jogo.PopularLetrasEncontradas(EscolhaPainelDoJogo()).ToArray());
             return novaPalavra;
         }
+
+
 
 
 
@@ -134,6 +145,14 @@ namespace JogoDasPalavras_Termo_WinApp
         }
 
 
+
+
+
+
+
+
+
+
         private void RodaOJogo()
         {
             if (jogo.JogadorAcertou() || jogo.JogadorPerdeu())
@@ -148,8 +167,13 @@ namespace JogoDasPalavras_Termo_WinApp
                 Close();
 
             }
+
+
             PintaTodasAsCaixas();
+
         }
+
+
 
 
 
@@ -167,10 +191,14 @@ namespace JogoDasPalavras_Termo_WinApp
 
 
 
+
+
         private void btnApagar_Click(object sender, EventArgs e)
         {
             jogo.ApagaRegistros(EscolhaPainelDoJogo());
         }
+
+
 
 
 
@@ -183,10 +211,14 @@ namespace JogoDasPalavras_Termo_WinApp
 
 
 
+
+
         private void btnChutar_MouseLeave(object sender, EventArgs e)
         {
             MudaCoreDoBotao(btnChutar, Color.White, Color.Black);
         }
+
+
 
 
         private void MudaCoreDoBotao(Button botao, Color corLetra, Color corFundo)
@@ -194,6 +226,8 @@ namespace JogoDasPalavras_Termo_WinApp
             botao.BackColor = corFundo;
             botao.ForeColor = corLetra;
         }
+
+
 
     }
 }

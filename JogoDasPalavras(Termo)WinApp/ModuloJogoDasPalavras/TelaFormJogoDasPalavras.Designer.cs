@@ -169,7 +169,7 @@
             btnLetraZ.Location = new Point(367, 204);
             btnLetraZ.Margin = new Padding(4, 3, 4, 3);
             btnLetraZ.Name = "btnLetraZ";
-            btnLetraZ.Size = new Size(83, 61);
+            btnLetraZ.Size = new Size(82, 61);
             btnLetraZ.TabIndex = 13;
             btnLetraZ.Text = "Z";
             btnLetraZ.UseVisualStyleBackColor = false;
@@ -180,7 +180,7 @@
             btnLetraY.Location = new Point(276, 204);
             btnLetraY.Margin = new Padding(4, 3, 4, 3);
             btnLetraY.Name = "btnLetraY";
-            btnLetraY.Size = new Size(83, 61);
+            btnLetraY.Size = new Size(82, 61);
             btnLetraY.TabIndex = 14;
             btnLetraY.Text = "Y";
             btnLetraY.UseVisualStyleBackColor = false;
@@ -191,7 +191,7 @@
             btnLetraX.Location = new Point(185, 204);
             btnLetraX.Margin = new Padding(4, 3, 4, 3);
             btnLetraX.Name = "btnLetraX";
-            btnLetraX.Size = new Size(83, 61);
+            btnLetraX.Size = new Size(82, 61);
             btnLetraX.TabIndex = 15;
             btnLetraX.Text = "X";
             btnLetraX.UseVisualStyleBackColor = false;
@@ -202,7 +202,7 @@
             btnLetraF.Location = new Point(458, 3);
             btnLetraF.Margin = new Padding(4, 3, 4, 3);
             btnLetraF.Name = "btnLetraF";
-            btnLetraF.Size = new Size(83, 60);
+            btnLetraF.Size = new Size(82, 60);
             btnLetraF.TabIndex = 25;
             btnLetraF.Text = "F";
             btnLetraF.UseVisualStyleBackColor = false;
@@ -213,7 +213,7 @@
             btnLetraW.Location = new Point(94, 204);
             btnLetraW.Margin = new Padding(4, 3, 4, 3);
             btnLetraW.Name = "btnLetraW";
-            btnLetraW.Size = new Size(83, 61);
+            btnLetraW.Size = new Size(82, 61);
             btnLetraW.TabIndex = 16;
             btnLetraW.Text = "W";
             btnLetraW.UseVisualStyleBackColor = false;
@@ -224,7 +224,7 @@
             btnLetraT.Location = new Point(458, 137);
             btnLetraT.Margin = new Padding(4, 3, 4, 3);
             btnLetraT.Name = "btnLetraT";
-            btnLetraT.Size = new Size(83, 60);
+            btnLetraT.Size = new Size(82, 60);
             btnLetraT.TabIndex = 17;
             btnLetraT.Text = "T";
             btnLetraT.UseVisualStyleBackColor = false;
@@ -235,7 +235,7 @@
             btnLetraS.Location = new Point(367, 137);
             btnLetraS.Margin = new Padding(4, 3, 4, 3);
             btnLetraS.Name = "btnLetraS";
-            btnLetraS.Size = new Size(83, 60);
+            btnLetraS.Size = new Size(82, 60);
             btnLetraS.TabIndex = 18;
             btnLetraS.Text = "S";
             btnLetraS.UseVisualStyleBackColor = false;
@@ -246,7 +246,7 @@
             btnLetraR.Location = new Point(276, 137);
             btnLetraR.Margin = new Padding(4, 3, 4, 3);
             btnLetraR.Name = "btnLetraR";
-            btnLetraR.Size = new Size(83, 60);
+            btnLetraR.Size = new Size(82, 60);
             btnLetraR.TabIndex = 19;
             btnLetraR.Text = "R";
             btnLetraR.UseVisualStyleBackColor = false;
@@ -257,7 +257,7 @@
             btnLetraQ.Location = new Point(185, 137);
             btnLetraQ.Margin = new Padding(4, 3, 4, 3);
             btnLetraQ.Name = "btnLetraQ";
-            btnLetraQ.Size = new Size(83, 60);
+            btnLetraQ.Size = new Size(82, 60);
             btnLetraQ.TabIndex = 20;
             btnLetraQ.Text = "Q";
             btnLetraQ.UseVisualStyleBackColor = false;
@@ -290,7 +290,7 @@
             btnLetraM.Location = new Point(458, 70);
             btnLetraM.Margin = new Padding(4, 3, 4, 3);
             btnLetraM.Name = "btnLetraM";
-            btnLetraM.Size = new Size(83, 60);
+            btnLetraM.Size = new Size(82, 60);
             btnLetraM.TabIndex = 21;
             btnLetraM.Text = "M";
             btnLetraM.UseVisualStyleBackColor = false;
@@ -301,7 +301,7 @@
             btnLetraL.Location = new Point(367, 70);
             btnLetraL.Margin = new Padding(4, 3, 4, 3);
             btnLetraL.Name = "btnLetraL";
-            btnLetraL.Size = new Size(83, 60);
+            btnLetraL.Size = new Size(82, 60);
             btnLetraL.TabIndex = 22;
             btnLetraL.Text = "L";
             btnLetraL.UseVisualStyleBackColor = false;
@@ -312,7 +312,7 @@
             btnLetraK.Location = new Point(276, 70);
             btnLetraK.Margin = new Padding(4, 3, 4, 3);
             btnLetraK.Name = "btnLetraK";
-            btnLetraK.Size = new Size(83, 60);
+            btnLetraK.Size = new Size(82, 60);
             btnLetraK.TabIndex = 26;
             btnLetraK.Text = "K";
             btnLetraK.UseVisualStyleBackColor = false;
@@ -323,7 +323,7 @@
             btnLetraJ.Location = new Point(185, 70);
             btnLetraJ.Margin = new Padding(4, 3, 4, 3);
             btnLetraJ.Name = "btnLetraJ";
-            btnLetraJ.Size = new Size(83, 60);
+            btnLetraJ.Size = new Size(82, 60);
             btnLetraJ.TabIndex = 27;
             btnLetraJ.Text = "J";
             btnLetraJ.UseVisualStyleBackColor = false;
@@ -345,7 +345,7 @@
             btnLetraB.Location = new Point(94, 3);
             btnLetraB.Margin = new Padding(4, 3, 4, 3);
             btnLetraB.Name = "btnLetraB";
-            btnLetraB.Size = new Size(83, 60);
+            btnLetraB.Size = new Size(82, 60);
             btnLetraB.TabIndex = 28;
             btnLetraB.Text = "B";
             btnLetraB.UseVisualStyleBackColor = false;
@@ -356,7 +356,7 @@
             btnLetraI.Location = new Point(94, 70);
             btnLetraI.Margin = new Padding(4, 3, 4, 3);
             btnLetraI.Name = "btnLetraI";
-            btnLetraI.Size = new Size(83, 60);
+            btnLetraI.Size = new Size(82, 60);
             btnLetraI.TabIndex = 23;
             btnLetraI.Text = "I";
             btnLetraI.UseVisualStyleBackColor = false;
@@ -367,7 +367,7 @@
             btnLetraE.Location = new Point(367, 3);
             btnLetraE.Margin = new Padding(4, 3, 4, 3);
             btnLetraE.Name = "btnLetraE";
-            btnLetraE.Size = new Size(83, 60);
+            btnLetraE.Size = new Size(82, 60);
             btnLetraE.TabIndex = 29;
             btnLetraE.Text = "E";
             btnLetraE.UseVisualStyleBackColor = false;
@@ -378,7 +378,7 @@
             btnLetraD.Location = new Point(276, 3);
             btnLetraD.Margin = new Padding(4, 3, 4, 3);
             btnLetraD.Name = "btnLetraD";
-            btnLetraD.Size = new Size(83, 61);
+            btnLetraD.Size = new Size(82, 60);
             btnLetraD.TabIndex = 30;
             btnLetraD.Text = "D";
             btnLetraD.UseVisualStyleBackColor = false;
@@ -400,7 +400,7 @@
             btnLetraP.Location = new Point(94, 137);
             btnLetraP.Margin = new Padding(4, 3, 4, 3);
             btnLetraP.Name = "btnLetraP";
-            btnLetraP.Size = new Size(83, 60);
+            btnLetraP.Size = new Size(82, 60);
             btnLetraP.TabIndex = 9;
             btnLetraP.Text = "P";
             btnLetraP.UseVisualStyleBackColor = false;
@@ -411,7 +411,7 @@
             btnLetraC.Location = new Point(185, 3);
             btnLetraC.Margin = new Padding(4, 3, 4, 3);
             btnLetraC.Name = "btnLetraC";
-            btnLetraC.Size = new Size(83, 60);
+            btnLetraC.Size = new Size(82, 60);
             btnLetraC.TabIndex = 31;
             btnLetraC.Text = "C";
             btnLetraC.UseVisualStyleBackColor = false;
@@ -471,60 +471,65 @@
             // 
             textBox1.BackColor = Color.FromArgb(76, 67, 71);
             textBox1.Enabled = false;
+            textBox1.Font = new Font("Verdana", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             textBox1.ForeColor = Color.WhiteSmoke;
             textBox1.Location = new Point(14, 3);
             textBox1.Margin = new Padding(4, 3, 4, 3);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(37, 26);
+            textBox1.Size = new Size(41, 33);
             textBox1.TabIndex = 34;
             // 
             // textBox2
             // 
             textBox2.BackColor = Color.FromArgb(76, 67, 71);
             textBox2.Enabled = false;
+            textBox2.Font = new Font("Verdana", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             textBox2.ForeColor = Color.WhiteSmoke;
             textBox2.Location = new Point(59, 3);
             textBox2.Margin = new Padding(4, 3, 4, 3);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(37, 26);
+            textBox2.Size = new Size(41, 33);
             textBox2.TabIndex = 35;
             // 
             // textBox3
             // 
             textBox3.BackColor = Color.FromArgb(76, 67, 71);
             textBox3.Enabled = false;
+            textBox3.Font = new Font("Verdana", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             textBox3.ForeColor = Color.WhiteSmoke;
             textBox3.Location = new Point(105, 3);
             textBox3.Margin = new Padding(4, 3, 4, 3);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
-            textBox3.Size = new Size(37, 26);
+            textBox3.Size = new Size(41, 33);
             textBox3.TabIndex = 36;
             // 
             // textBox4
             // 
             textBox4.BackColor = Color.FromArgb(76, 67, 71);
             textBox4.Enabled = false;
+            textBox4.Font = new Font("Verdana", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             textBox4.ForeColor = Color.WhiteSmoke;
             textBox4.Location = new Point(197, 3);
             textBox4.Margin = new Padding(4, 3, 4, 3);
             textBox4.Multiline = true;
             textBox4.Name = "textBox4";
-            textBox4.Size = new Size(37, 26);
+            textBox4.Size = new Size(41, 33);
             textBox4.TabIndex = 37;
             // 
             // textBox5
             // 
             textBox5.BackColor = Color.FromArgb(76, 67, 71);
             textBox5.Enabled = false;
+            textBox5.Font = new Font("Verdana", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             textBox5.ForeColor = Color.WhiteSmoke;
             textBox5.Location = new Point(150, 3);
             textBox5.Margin = new Padding(4, 3, 4, 3);
             textBox5.Multiline = true;
             textBox5.Name = "textBox5";
-            textBox5.Size = new Size(37, 26);
+            textBox5.Size = new Size(41, 33);
             textBox5.TabIndex = 38;
             // 
             // pnlLetrasDaPalavra
@@ -559,60 +564,65 @@
             // 
             textBox6.BackColor = Color.FromArgb(76, 67, 71);
             textBox6.Enabled = false;
+            textBox6.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox6.ForeColor = Color.WhiteSmoke;
             textBox6.Location = new Point(14, 3);
             textBox6.Margin = new Padding(4, 3, 4, 3);
             textBox6.Multiline = true;
             textBox6.Name = "textBox6";
-            textBox6.Size = new Size(37, 26);
+            textBox6.Size = new Size(41, 33);
             textBox6.TabIndex = 34;
             // 
             // textBox7
             // 
             textBox7.BackColor = Color.FromArgb(76, 67, 71);
             textBox7.Enabled = false;
+            textBox7.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox7.ForeColor = Color.WhiteSmoke;
             textBox7.Location = new Point(59, 3);
             textBox7.Margin = new Padding(4, 3, 4, 3);
             textBox7.Multiline = true;
             textBox7.Name = "textBox7";
-            textBox7.Size = new Size(37, 26);
+            textBox7.Size = new Size(41, 33);
             textBox7.TabIndex = 35;
             // 
             // textBox8
             // 
             textBox8.BackColor = Color.FromArgb(76, 67, 71);
             textBox8.Enabled = false;
+            textBox8.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox8.ForeColor = Color.WhiteSmoke;
             textBox8.Location = new Point(105, 3);
             textBox8.Margin = new Padding(4, 3, 4, 3);
             textBox8.Multiline = true;
             textBox8.Name = "textBox8";
-            textBox8.Size = new Size(37, 26);
+            textBox8.Size = new Size(41, 33);
             textBox8.TabIndex = 36;
             // 
             // textBox9
             // 
             textBox9.BackColor = Color.FromArgb(76, 67, 71);
             textBox9.Enabled = false;
+            textBox9.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox9.ForeColor = Color.WhiteSmoke;
             textBox9.Location = new Point(150, 3);
             textBox9.Margin = new Padding(4, 3, 4, 3);
             textBox9.Multiline = true;
             textBox9.Name = "textBox9";
-            textBox9.Size = new Size(37, 26);
+            textBox9.Size = new Size(41, 33);
             textBox9.TabIndex = 38;
             // 
             // textBox10
             // 
             textBox10.BackColor = Color.FromArgb(76, 67, 71);
             textBox10.Enabled = false;
+            textBox10.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox10.ForeColor = Color.WhiteSmoke;
             textBox10.Location = new Point(197, 3);
             textBox10.Margin = new Padding(4, 3, 4, 3);
             textBox10.Multiline = true;
             textBox10.Name = "textBox10";
-            textBox10.Size = new Size(37, 26);
+            textBox10.Size = new Size(41, 33);
             textBox10.TabIndex = 37;
             // 
             // panel2
@@ -633,60 +643,65 @@
             // 
             textBox11.BackColor = Color.FromArgb(76, 67, 71);
             textBox11.Enabled = false;
+            textBox11.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox11.ForeColor = Color.WhiteSmoke;
             textBox11.Location = new Point(14, 3);
             textBox11.Margin = new Padding(4, 3, 4, 3);
             textBox11.Multiline = true;
             textBox11.Name = "textBox11";
-            textBox11.Size = new Size(37, 26);
+            textBox11.Size = new Size(41, 33);
             textBox11.TabIndex = 34;
             // 
             // textBox12
             // 
             textBox12.BackColor = Color.FromArgb(76, 67, 71);
             textBox12.Enabled = false;
+            textBox12.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox12.ForeColor = Color.WhiteSmoke;
             textBox12.Location = new Point(59, 3);
             textBox12.Margin = new Padding(4, 3, 4, 3);
             textBox12.Multiline = true;
             textBox12.Name = "textBox12";
-            textBox12.Size = new Size(37, 26);
+            textBox12.Size = new Size(41, 33);
             textBox12.TabIndex = 35;
             // 
             // textBox13
             // 
             textBox13.BackColor = Color.FromArgb(76, 67, 71);
             textBox13.Enabled = false;
+            textBox13.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox13.ForeColor = Color.WhiteSmoke;
             textBox13.Location = new Point(105, 3);
             textBox13.Margin = new Padding(4, 3, 4, 3);
             textBox13.Multiline = true;
             textBox13.Name = "textBox13";
-            textBox13.Size = new Size(37, 26);
+            textBox13.Size = new Size(41, 33);
             textBox13.TabIndex = 36;
             // 
             // textBox14
             // 
             textBox14.BackColor = Color.FromArgb(76, 67, 71);
             textBox14.Enabled = false;
+            textBox14.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox14.ForeColor = Color.WhiteSmoke;
             textBox14.Location = new Point(150, 3);
             textBox14.Margin = new Padding(4, 3, 4, 3);
             textBox14.Multiline = true;
             textBox14.Name = "textBox14";
-            textBox14.Size = new Size(37, 26);
+            textBox14.Size = new Size(41, 33);
             textBox14.TabIndex = 38;
             // 
             // textBox15
             // 
             textBox15.BackColor = Color.FromArgb(76, 67, 71);
             textBox15.Enabled = false;
+            textBox15.Font = new Font("Verdana", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
             textBox15.ForeColor = Color.WhiteSmoke;
             textBox15.Location = new Point(197, 3);
             textBox15.Margin = new Padding(4, 3, 4, 3);
             textBox15.Multiline = true;
             textBox15.Name = "textBox15";
-            textBox15.Size = new Size(37, 26);
+            textBox15.Size = new Size(41, 33);
             textBox15.TabIndex = 37;
             // 
             // panel4
@@ -707,60 +722,65 @@
             // 
             textBox21.BackColor = Color.FromArgb(76, 67, 71);
             textBox21.Enabled = false;
+            textBox21.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox21.ForeColor = Color.WhiteSmoke;
             textBox21.Location = new Point(14, 3);
             textBox21.Margin = new Padding(4, 3, 4, 3);
             textBox21.Multiline = true;
             textBox21.Name = "textBox21";
-            textBox21.Size = new Size(37, 26);
+            textBox21.Size = new Size(41, 33);
             textBox21.TabIndex = 34;
             // 
             // textBox22
             // 
             textBox22.BackColor = Color.FromArgb(76, 67, 71);
             textBox22.Enabled = false;
+            textBox22.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox22.ForeColor = Color.WhiteSmoke;
             textBox22.Location = new Point(59, 3);
             textBox22.Margin = new Padding(4, 3, 4, 3);
             textBox22.Multiline = true;
             textBox22.Name = "textBox22";
-            textBox22.Size = new Size(37, 26);
+            textBox22.Size = new Size(41, 33);
             textBox22.TabIndex = 35;
             // 
             // textBox23
             // 
             textBox23.BackColor = Color.FromArgb(76, 67, 71);
             textBox23.Enabled = false;
+            textBox23.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox23.ForeColor = Color.WhiteSmoke;
             textBox23.Location = new Point(105, 3);
             textBox23.Margin = new Padding(4, 3, 4, 3);
             textBox23.Multiline = true;
             textBox23.Name = "textBox23";
-            textBox23.Size = new Size(37, 26);
+            textBox23.Size = new Size(41, 33);
             textBox23.TabIndex = 36;
             // 
             // textBox24
             // 
             textBox24.BackColor = Color.FromArgb(76, 67, 71);
             textBox24.Enabled = false;
+            textBox24.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox24.ForeColor = Color.WhiteSmoke;
             textBox24.Location = new Point(150, 3);
             textBox24.Margin = new Padding(4, 3, 4, 3);
             textBox24.Multiline = true;
             textBox24.Name = "textBox24";
-            textBox24.Size = new Size(37, 26);
+            textBox24.Size = new Size(41, 33);
             textBox24.TabIndex = 38;
             // 
             // textBox25
             // 
             textBox25.BackColor = Color.FromArgb(76, 67, 71);
             textBox25.Enabled = false;
+            textBox25.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox25.ForeColor = Color.WhiteSmoke;
             textBox25.Location = new Point(197, 3);
             textBox25.Margin = new Padding(4, 3, 4, 3);
             textBox25.Multiline = true;
             textBox25.Name = "textBox25";
-            textBox25.Size = new Size(37, 26);
+            textBox25.Size = new Size(41, 33);
             textBox25.TabIndex = 37;
             // 
             // pnlPrincipalDoJogo
@@ -797,60 +817,65 @@
             // 
             textBox26.BackColor = Color.FromArgb(76, 67, 71);
             textBox26.Enabled = false;
+            textBox26.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox26.ForeColor = Color.WhiteSmoke;
             textBox26.Location = new Point(14, 3);
             textBox26.Margin = new Padding(4, 3, 4, 3);
             textBox26.Multiline = true;
             textBox26.Name = "textBox26";
-            textBox26.Size = new Size(37, 26);
+            textBox26.Size = new Size(40, 35);
             textBox26.TabIndex = 34;
             // 
             // textBox27
             // 
             textBox27.BackColor = Color.FromArgb(76, 67, 71);
             textBox27.Enabled = false;
+            textBox27.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox27.ForeColor = Color.WhiteSmoke;
             textBox27.Location = new Point(59, 3);
             textBox27.Margin = new Padding(4, 3, 4, 3);
             textBox27.Multiline = true;
             textBox27.Name = "textBox27";
-            textBox27.Size = new Size(37, 26);
+            textBox27.Size = new Size(40, 35);
             textBox27.TabIndex = 35;
             // 
             // textBox28
             // 
             textBox28.BackColor = Color.FromArgb(76, 67, 71);
             textBox28.Enabled = false;
+            textBox28.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox28.ForeColor = Color.WhiteSmoke;
             textBox28.Location = new Point(105, 3);
             textBox28.Margin = new Padding(4, 3, 4, 3);
             textBox28.Multiline = true;
             textBox28.Name = "textBox28";
-            textBox28.Size = new Size(37, 26);
+            textBox28.Size = new Size(41, 33);
             textBox28.TabIndex = 36;
             // 
             // textBox29
             // 
             textBox29.BackColor = Color.FromArgb(76, 67, 71);
             textBox29.Enabled = false;
+            textBox29.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox29.ForeColor = Color.WhiteSmoke;
             textBox29.Location = new Point(150, 3);
             textBox29.Margin = new Padding(4, 3, 4, 3);
             textBox29.Multiline = true;
             textBox29.Name = "textBox29";
-            textBox29.Size = new Size(37, 26);
+            textBox29.Size = new Size(41, 33);
             textBox29.TabIndex = 38;
             // 
             // textBox30
             // 
             textBox30.BackColor = Color.FromArgb(76, 67, 71);
             textBox30.Enabled = false;
+            textBox30.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             textBox30.ForeColor = Color.WhiteSmoke;
             textBox30.Location = new Point(198, 3);
             textBox30.Margin = new Padding(4, 3, 4, 3);
             textBox30.Multiline = true;
             textBox30.Name = "textBox30";
-            textBox30.Size = new Size(36, 26);
+            textBox30.Size = new Size(40, 33);
             textBox30.TabIndex = 37;
             // 
             // tableLayoutPanel2
@@ -911,7 +936,7 @@
             AutoScaleDimensions = new SizeF(9F, 16F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(97, 84, 88);
-            ClientSize = new Size(772, 612);
+            ClientSize = new Size(775, 621);
             Controls.Add(lblTituloPrincipal);
             Controls.Add(pnlPrincipalDoJogo);
             Controls.Add(btnChutar);
