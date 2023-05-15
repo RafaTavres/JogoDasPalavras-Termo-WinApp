@@ -1,14 +1,14 @@
 # JogoDasPalavras-Termo-WinApp
 
-##Trabalho da Academia do programador
+#Trabalho da Academia do programador
 
-##JOGO DAS PALAVRAS
+#JOGO DAS PALAVRAS
 
 "É um jogo de palavras baseado em adivinhação, onde os jogadores tentam adivinhar uma
 palavra oculta em um número limitado de tentativas. O jogo é jogado por turnos, onde o
 jogador tenta adivinhar"
 
-##Mecânica do Jogo:
+#Mecânica do Jogo:
 
      O jogo deve começar com a seleção aleatória de uma palavra oculta.
      Os jogadores devem ter um número limitado de tentativas para adivinhar a palavra.
